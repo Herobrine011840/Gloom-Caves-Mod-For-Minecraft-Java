@@ -4,7 +4,7 @@ The Official Gloom Caves Mod by Herobrine011840.
 
 
 A few tips on downloading:
-1. This mod works with minecraft 1.21 & forge.
+1. This mod works with minecraft 1.20.1 & forge.
 2. You may need a stronger computer as this mod creates an entirely new dimension.
 3. This mod works best with vanilla.
 4. Use JEI if you don't know how to craft some items.
